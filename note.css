@@ -1,0 +1,18 @@
+
+
+
+         /*div parant de al page html*/
+   .pere{
+       text-align: center;
+       font-family: 'Courier New', Courier, monospace;
+       background: #eee;
+       border-radius: 25px;
+       width: 50%;
+       margin-left:30%;
+   }
+       /*div buttons de al page html*/
+ .btn{
+    
+    margin-bottom: 3px;
+   
+ }
